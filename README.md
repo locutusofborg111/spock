@@ -1,5 +1,5 @@
 # spock
-Spock Yield Farms on Ethereum<br>
+Spock Yield Farm on Ethereum<br>
 https://spock.borgswap.exchange<br>
 <br>
 Spock Contract - https://etherscan.io/address/0x86e82313704851c6e2764bfae8276849ab28c113#code<br>
